@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/dongxiao/catkin_ws/src/LeGO-LOAM-zhushi/LeGO-LOAM/build/devel/setup.sh
